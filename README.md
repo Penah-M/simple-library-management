@@ -108,7 +108,7 @@ istifadə olunur.
 
 1. Layihəni klonla:
    ```bash
-   git clone https://github.com/<istifadəçi-adı>/library-management-core-java.git
+   git clone https://github.com/Penah-M/simple-library-management.git
 IDE-də (IntelliJ IDEA, Eclipse və s.) aç.
 
 Main.java faylını çalışdır.
